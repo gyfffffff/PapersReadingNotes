@@ -13,10 +13,7 @@
 
 *2. Proxy-tuning(Tuning Language Models by Proxy) [Notes](https://www.yuque.com/g/muamuamu/woexg6/go5grembwz9y50qx/collaborator/join?token=8NxSZOn4X6WfjYwJ&source=doc_collaborator#)*
 
-3. 
 
-# LLM-evaluation
-*1. ALCE(Enabling Large Language Models to Generate Text with Citations) [Notes](https://blog.csdn.net/major_in_data_/article/details/135581797)*
 
 
 # LLM-RAG
@@ -24,6 +21,12 @@
 
 *2.【RAG综述】Retrieval-Augmented Generation for Large Language Models: A Survey [Notes](https://www.yuque.com/g/muamuamu/woexg6/mhwkotb3l92cg9cv/collaborator/join?token=fQLKsxSHZ5IexhAo&source=doc_collaborator#)*
 
+*3. 【RAG论文57篇】[Notes](https://www.yuque.com/g/muamuamu/woexg6/sg5odwyyieu50o8x/collaborator/join?token=AEY7SzyKpasoKy0L&source=doc_collaborator#)*
+
+# LLM-evaluation
+*1. ALCE(Enabling Large Language Models to Generate Text with Citations) [Notes](https://blog.csdn.net/major_in_data_/article/details/135581797)*
+
+*2. HELM(Holisic Evaluation Language Model)  [Notes](https://www.yuque.com/g/muamuamu/woexg6/gpmgkznuynxpp7da/collaborator/join?token=Wqa6FAM2PsanFCg9&source=doc_collaborator#)*
 
 # LLM-attribution(citation)
 *1. 【attribution综述】A Survey of Large Language Models Attribution  [Notes](https://www.yuque.com/g/muamuamu/woexg6/zped8bo82b359ltn/collaborator/join?token=k98sQiXzZRHCnmTd&source=doc_collaborator#)*
